@@ -2,7 +2,25 @@
   margin-top: 10px;
 }
 
+h1{
+  font-weight: bold;
+}
+
 .box {
   border: 1px solid black;
   height: 150px;
+  font-size: 100px;
+  text-align: center;
+  background-color: lightgray;
+}
+
+button {
+  margin-top: 50px;
+}
+
+.win{
+  color: red;
+
+  font-weight:bold;
+  text-align: center;
 }
